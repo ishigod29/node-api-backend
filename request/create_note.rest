@@ -1,0 +1,6 @@
+POST http://localhost:3002/api/notes 
+Content-Type: application/json
+
+{
+    "content": "esto es una nueva nota"
+}
